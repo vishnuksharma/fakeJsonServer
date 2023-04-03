@@ -9,4 +9,4 @@ Visit https://my-json-server.typicode.com/<your-username>/<your-repo> to access 
 ## Example
 You can check the following server as an example:
 
-https://my-json-server.typicode.com/typicode/demo
+https://my-json-server.typicode.com/vishnuksharma/fakeJsonServer
