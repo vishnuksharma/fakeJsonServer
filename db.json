@@ -5,82 +5,6 @@
       "Description": "An early stage in the evolution of sauropods."
     },
     {
-      "Name": "Arcusaurus",
-      "Description": "This prosauropod was recently discovered in South Africa."
-    },
-    {
-      "Name": "Argentinosaurus",
-      "Description": "Possibly the largest dinosaur that ever lived."
-    },
-    {
-      "Name": "Argyrosaurus",
-      "Description": "A plus-sized titanosaur from South America."
-    },
-    {
-      "Name": "Aristosuchus",
-      "Description": "This \"noble crocodile\" was actually a dinosaur."
-    },
-    {
-      "Name": "Arrhinoceratops",
-      "Description": "This ceratopsian was named for its \"missing\" nose horn."
-    },
-    {
-      "Name": "Astrodon",
-      "Description": "The official state dinosaur of Maryland."
-    },
-    {
-      "Name": "Asylosaurus",
-      "Description": "This \"unharmed lizard\" escaped destruction in World War II."
-    },
-    {
-      "Name": "Atlasaurus",
-      "Description": "This sauropod had unusually long legs."
-    },
-    {
-      "Name": "Atlascopcosaurus",
-      "Description": "Named after a manufacturer of digging equipment."
-    },
-    {
-      "Name": "Atrociraptor",
-      "Description": "This \"cruel thief\" wasn't as atrocious as its name implies."
-    },
-    {
-      "Name": "Aublysodon",
-      "Description": "This tyrannosaur was named after a single tooth."
-    },
-    {
-      "Name": "Aucasaurus",
-      "Description": "This predator was a close relative of Carnotaurus."
-    },
-    {
-      "Name": "Auroraceratops",
-      "Description": "A close relative of Archaeoceratops."
-    },
-    {
-      "Name": "Australodocus",
-      "Description": "This sauropod was found in modern-day Tanzania."
-    },
-    {
-      "Name": "Australovenator",
-      "Description": "A recently discovered carnivore from Australia."
-    },
-    {
-      "Name": "Austroraptor",
-      "Description": "The largest raptor from South America."
-    },
-    {
-      "Name": "Austrosaurus",
-      "Description": "This titanosaur was discovered near a train station."
-    },
-    {
-      "Name": "Avaceratops",
-      "Description": "This ceratopsian is represented by a single juvenile."
-    },
-    {
-      "Name": "Aviatyrannis",
-      "Description": "This \"grandmother tyrant\" was one of the first tyrannosaurs."
-    },
-    {
       "Name": "Avimimus",
       "Description": "A particularly bird-like cousin of Oviraptor."
     },
@@ -753,34 +677,6 @@
       "Description": "The largest ceratopsian to run on two legs."
     },
     {
-      "Name": "Unaysaurus",
-      "Description": "One of the oldest prosauropods yet discovered."
-    },
-    {
-      "Name": "Unenlagia",
-      "Description": "This bird-like raptor was native to South America."
-    },
-    {
-      "Name": "Unescoceratops",
-      "Description": "Named after the United Nation's UNESCO."
-    },
-    {
-      "Name": "Urbacodon",
-      "Description": "This Troodon-like predator was discovered in Uzbekistan."
-    },
-    {
-      "Name": "Utahceratops",
-      "Description": "Guess what state this dinosaur was discovered in."
-    },
-    {
-      "Name": "Utahraptor",
-      "Description": "Probably the biggest raptor that ever lived."
-    },
-    {
-      "Name": "Uteodon",
-      "Description": "It was once classified as a species of Camptosaurus."
-    },
-    {
       "Name": "Vagaceratops",
       "Description": "This big-frilled dinosaur was closely related to Kosmoceratops."
     },
@@ -789,68 +685,8 @@
       "Description": "Its name is Malagasy for \"traveler\"."
     },
     {
-      "Name": "Valdoraptor",
-      "Description": "This early \"bird mimic\" dinosaur lived in England."
-    },
-    {
-      "Name": "Valdosaurus",
-      "Description": "This ornithopod was discovered on the Isle of Wight."
-    },
-    {
-      "Name": "Variraptor",
-      "Description": "The first raptor ever to be discovered in France."
-    },
-    {
-      "Name": "Velafrons",
-      "Description": "A new addition to the duck-billed dinosaur family."
-    },
-    {
-      "Name": "Velociraptor",
-      "Description": "This dinosaur was vicious but a lot smaller than you thought."
-    },
-    {
-      "Name": "Velocisaurus",
-      "Description": "A small, speedy theropod of late Cretaceous South America."
-    },
-    {
-      "Name": "Venenosaurus",
-      "Description": "This \"poison lizard\" was really a gentle plant-eater."
-    },
-    {
-      "Name": "Veterupristisaurus",
-      "Description": "One of the earliest carcharodontosaurs yet identified."
-    },
-    {
-      "Name": "Vulcanodon",
-      "Description": "An early sauropod of the Jurassic period."
-    },
-    {
       "Name": "Wannanosaurus",
       "Description": "Probably the smallest of all the bone-headed dinosaurs."
-    },
-    {
-      "Name": "Wellnhoferia",
-      "Description": "Was it really a species of Archaeopteryx?"
-    },
-    {
-      "Name": "Wendiceratops",
-      "Description": "This dinosaur honors Canadian fossil hunter Wendy Sloboda."
-    },
-    {
-      "Name": "Willinakaqe",
-      "Description": "A rare duck-billed dinosaur from South America."
-    },
-    {
-      "Name": "Wintonotitan",
-      "Description": "Another new titanosaur from Australia."
-    },
-    {
-      "Name": "Wuerhosaurus",
-      "Description": "Could this have been the last of the stegosaurs?"
-    },
-    {
-      "Name": "Wulagasaurus",
-      "Description": "The earliest saurolophine hadrosaur in the fossil record."
     },
     {
       "Name": "Xenoceratops",
@@ -861,96 +697,8 @@
       "Description": "Experts aren't sure how to classify this sauropod."
     },
     {
-      "Name": "Xenotarsosaurus",
-      "Description": "A poorly understood abelisaur from South America."
-    },
-    {
-      "Name": "Xiaosaurus",
-      "Description": "A small ornithopod from late Jurassic Asia."
-    },
-    {
-      "Name": "Xiaotingia",
-      "Description": "This feathered dinosaur predated Archaeopteryx."
-    },
-    {
-      "Name": "Xinjiangtitan",
-      "Description": "This huge sauropod was a close relative of Mamenchisaurus."
-    },
-    {
-      "Name": "Xiongguanlong",
-      "Description": "A small, primitive tyrannosaur from Asia."
-    },
-    {
-      "Name": "Xixianykus",
-      "Description": "A long-legged dino-bird from eastern Asia."
-    },
-    {
-      "Name": "Xuanhanosaurus",
-      "Description": "You didn't think there'd be so many \"X\"'s on this list, did you?"
-    },
-    {
-      "Name": "Xuanhuaceratops",
-      "Description": "An early ceratopsian of the late Jurassic."
-    },
-    {
-      "Name": "Xuwulong",
-      "Description": "This iguanodontid ornithopod was recently discovered in China."
-    },
-    {
       "Name": "Yamaceratops",
       "Description": "No, it didn't have a sweet potato for a head."
-    },
-    {
-      "Name": "Yandusaurus",
-      "Description": "A small ornithopod of middle Jurassic China."
-    },
-    {
-      "Name": "Yangchuanosaurus",
-      "Description": "A large theropod of late Jurassic Asia."
-    },
-    {
-      "Name": "Yaverlandia",
-      "Description": "A classic case of mistaken dinosaur identity."
-    },
-    {
-      "Name": "Yi Qi",
-      "Description": "This strange Jurassic dinosaur had bat-like wings."
-    },
-    {
-      "Name": "Yimenosaurus",
-      "Description": "One of the better-known Chinese prosauropods."
-    },
-    {
-      "Name": "Yinlong",
-      "Description": "This \"hidden dragon\" was an early ceratopsian."
-    },
-    {
-      "Name": "Yixianosaurus",
-      "Description": "How did this dino-bird use its long fingers?"
-    },
-    {
-      "Name": "Yizhousaurus",
-      "Description": "The earliest intact sauropod yet discovered."
-    },
-    {
-      "Name": "Yongjinglong",
-      "Description": "This titanosaur was recently discovered in China."
-    },
-    {
-      "Name": "Yueosaurus",
-      "Description": "This basal ornithopod was discovered by construction workers."
-    },
-    {
-      "Name": "Yulong",
-      "Description": "The smallest oviraptor yet identified."
-    },
-    {
-      "Name": "Yunnanosaurus",
-      "Description": "One of the last prosauropods to walk the earth."
-    },
-    {
-      "Name": "Yutyrannus",
-      "Description": "The largest feathered tyrannosaur yet identified."
     },
     {
       "Name": "Zalmoxes",
@@ -960,58 +708,6 @@
       "Name": "Zanabazar",
       "Description": "Named after a Buddhist spiritual leader."
     },
-    {
-      "Name": "Zapalasaurus",
-      "Description": "This \"diplodocoid\" sauropod lived in early Cretaceous South America."
-    },
-    {
-      "Name": "Zby",
-      "Description": "This dinosaur's name was inversely proportional to its size."
-    },
-    {
-      "Name": "Zephyrosaurus",
-      "Description": "Otherwise known as the Western Wind Lizard."
-    },
-    {
-      "Name": "Zhanghenglong",
-      "Description": "A transitional hadrosaur of late Cretaceous Asia."
-    },
-    {
-      "Name": "Zhejiangosaurus",
-      "Description": "The first identified nodosaur from Asia."
-    },
-    {
-      "Name": "Zhenyuanlong",
-      "Description": "Also known as the \"fluffy feathered poodle from hell\"."
-    },
-    {
-      "Name": "Zhongyuansaurus",
-      "Description": "The only known ankylosaur to lack a tail club."
-    },
-    {
-      "Name": "Zhuchengceratops",
-      "Description": "It probably figured on the lunch menu of Zhuchengtyrannus."
-    },
-    {
-      "Name": "Zhuchengosaurus",
-      "Description": "This hadrosaur was even bigger than Shantungosaurus."
-    },
-    {
-      "Name": "Zhuchengtyrannus",
-      "Description": "This Asian tyrannosaur was the size of T. Rex."
-    },
-    {
-      "Name": "Zuniceratops",
-      "Description": "This horned dinosaur was discovered by an eight-year-old boy."
-    },
-    {
-      "Name": "Zuolong",
-      "Description": "It was named after General Tso, of Chinese restaurant fame."
-    },
-    {
-      "Name": "Zupaysaurus",
-      "Description": "This \"devil lizard\" was one of the earliest theropods."
-    }
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
