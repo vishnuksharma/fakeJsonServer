@@ -231,54 +231,6 @@
     {
       "Name": "Talarurus",
       "Description": "This ankylosaur was discovered in the Gobi Desert."
-    },
-    {
-      "Name": "Talos",
-      "Description": "This dinosaur was found with an injured big toe."
-    },
-    {
-      "Name": "Tangvayosaurus",
-      "Description": "This Laotian titanosaur was closely related to Phuwiangosaurus."
-    },
-    {
-      "Name": "Uberabatitan",
-      "Description": "Discovered in the Uberaba region of Brazil."
-    },
-    {
-      "Name": "Udanoceratops",
-      "Description": "The largest ceratopsian to run on two legs."
-    },
-    {
-      "Name": "Vagaceratops",
-      "Description": "This big-frilled dinosaur was closely related to Kosmoceratops."
-    },
-    {
-      "Name": "Vahiny",
-      "Description": "Its name is Malagasy for \"traveler\"."
-    },
-    {
-      "Name": "Wannanosaurus",
-      "Description": "Probably the smallest of all the bone-headed dinosaurs."
-    },
-    {
-      "Name": "Xenoceratops",
-      "Description": "This \"alien horned face\" was announced in 2012."
-    },
-    {
-      "Name": "Xenoposeidon",
-      "Description": "Experts aren't sure how to classify this sauropod."
-    },
-    {
-      "Name": "Yamaceratops",
-      "Description": "No, it didn't have a sweet potato for a head."
-    },
-    {
-      "Name": "Zalmoxes",
-      "Description": "A strange-looking ornithopod from Romania."
-    },
-    {
-      "Name": "Zanabazar",
-      "Description": "Named after a Buddhist spiritual leader."
     }
   ],
   "posts": [
@@ -306,8 +258,5 @@
       "body": "some comment",
       "postId": 1
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
