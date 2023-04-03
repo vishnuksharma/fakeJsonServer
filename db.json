@@ -77,14 +77,6 @@
       "Description": "This ornithopod was discovered in Japan."
     },
     {
-      "Name": "Fulgurotherium",
-      "Description": "Very little is known about this \"lightning beast\"."
-    },
-    {
-      "Name": "Futalognkosaurus",
-      "Description": "A very big, and very strangely named sauropod."
-    },
-    {
       "Name": "Gallimimus",
       "Description": "This \"chicken mimic\" roamed the plains of the late Cretaceous."
     },
@@ -95,18 +87,6 @@
     {
       "Name": "Hadrosaurus",
       "Description": "The official state dinosaur of New Jersey."
-    },
-    {
-      "Name": "Hylaeosaurus",
-      "Description": "One of the first creatures ever to be called a dinosaur."
-    },
-    {
-      "Name": "Hypacrosaurus",
-      "Description": "We know a lot about this dinosaur's family life."
-    },
-    {
-      "Name": "Hypselosaurus",
-      "Description": "This titanosaur's eggs were a foot in diameter."
     },
     {
       "Name": "Hypselospinus",
@@ -165,36 +145,8 @@
       "Description": "This duck-billed dinosaur had a hatchet-shaped crest on its noggin."
     },
     {
-      "Name": "Lamplughsaura",
-      "Description": "This early sauropod was discovered in India."
-    },
-    {
-      "Name": "Lanzhousaurus",
-      "Description": "This herbivore's teeth were half a foot long."
-    },
-    {
-      "Name": "Laosaurus",
-      "Description": "This dubious ornithopod was named by Othniel C. Marsh."
-    },
-    {
       "Name": "Lapparentosaurus",
       "Description": "This sauropod was discovered in Madagascar."
-    },
-    {
-      "Name": "Machairasaurus",
-      "Description": "This \"short scimitar lizard\" was a close relative of Oviraptor."
-    },
-    {
-      "Name": "Macrogryphosaurus",
-      "Description": "Otherwise known as the Big Enigmatic Lizard."
-    },
-    {
-      "Name": "Magnapaulia",
-      "Description": "The largest lambeosaurine hadrosaur yet identified."
-    },
-    {
-      "Name": "Magnirostris",
-      "Description": "This ceratopsian had an unusually big beak."
     },
     {
       "Name": "Nankangia",
@@ -223,18 +175,6 @@
     {
       "Name": "Pachycephalosaurus",
       "Description": "This plant-eater gave new meaning to the word \"blockhead\"."
-    },
-    {
-      "Name": "Pachyrhinosaurus",
-      "Description": "This \"thick-nosed lizard\" roamed the North American forests."
-    },
-    {
-      "Name": "Palaeoscincus",
-      "Description": "This \"ancient skink\" was actually an armored dinosaur."
-    },
-    {
-      "Name": "Paluxysaurus",
-      "Description": "The official Texas state dinosaur."
     },
     {
       "Name": "Pampadromaeus",
